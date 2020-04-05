@@ -1,0 +1,9 @@
+#- action: send
+#    by: id
+#    locator: search_input_text
+#  -
+
+
+- by: id
+  locator: home_search
+  action: click

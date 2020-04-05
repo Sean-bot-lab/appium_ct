@@ -1,0 +1,7 @@
+- by: id
+  locator: search_input_text
+  action: send
+  value: "{key}"
+- by: id
+  locator: name
+  action: click
